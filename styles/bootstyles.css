@@ -1,0 +1,58 @@
+
+.footer {
+    margin: 100px;
+    border-right: solid 5px rgb(250, 160, 148);
+    color: rgb(0, 140, 118)
+}
+
+.a:link {
+    color: rgb(0, 140, 118)
+}
+
+a:visited {
+    color: grey
+  }
+
+.h2 {
+    font: 100; color:rgb(250, 160, 148);
+    border-style: double;
+    border-color: rgb(250, 160, 148);
+    }
+
+.body {
+    background-color: rgb(255, 221, 226);
+    }
+
+.h1 {
+    font-family: "Sofia", sans-serif;
+    color: rgb(0, 140, 118);
+    
+}
+
+
+.topnav {
+  background-color: rgb(158, 217, 204);
+  overflow: hidden;
+  border-style: outset;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: rgb(0, 140, 118);
+  color: white;
+}
+
+.h6 {
+  text-align: left;
+  color: black;
+}
+
